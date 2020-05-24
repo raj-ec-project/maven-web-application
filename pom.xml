@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://15.206.74.20:9980/mss/repository/paytm-releases/</url>
+	      <name>Raj Nexus Releases Nexus Repository</name>
+	      <url>http://13.126.85.113:8081/repository/test-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.206.74.20:9980/mss/repository/paytm-snapshot/</url>
+	      <name>Raj Nexus Snapshot Nexus Repository </name>
+	      <url>http://13.126.85.113:8081/repository/test-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
